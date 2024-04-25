@@ -28,7 +28,7 @@ This Python script retrieves movie reviews from The New York Times API based on 
 ## Usage
 
 1. **Running the Script**:
-   - Execute the script `nyt_movie_review_scraper.py`.
+   - Execute the script `retrieve_movie_data.ipynb`.
    - The script will fetch movie reviews from NYT API, enrich them with data from TMDB API, and store the results in a CSV file named `merged_data.csv`.
 
 2. **Customization**:
